@@ -35,7 +35,7 @@ I'm a Senior Software Engineer at [Appian](https://appian.com) with 4+ years of 
 
 ## 🤝 Let's Connect
 
-- 💼 [LinkedIn]([https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/arnab-sen-7020b8200/))
+- 💼 [LinkedIn](https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/arnab-sen-7020b8200/))
 - 📧 [Email](mailto:arnab.sen@appian.com)
 
 ---
