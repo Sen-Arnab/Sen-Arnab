@@ -31,7 +31,7 @@ I'm a Senior Software Engineer at [Appian](https://appian.com) with 4+ years of 
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sen-Arnab&show_icons=true&theme=radical)
 
 ## 🤝 Let's Connect
 
