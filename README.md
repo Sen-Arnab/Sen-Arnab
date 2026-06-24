@@ -1,43 +1,26 @@
-# Hi there! 👋
+# Hey, I'm Arnab 👋
 
-I'm a Senior Software Engineer at [Appian](https://appian.com) with 4+ years of experience in AI/ML and automation technologies. Previously a Data Scientist with a Master's in Data Science from Chennai Mathematical Institute.
+Software Engineer at [Appian](https://appian.com) building AI-powered developer tools — agent orchestration, workflow automation, and code generation for enterprise platforms.
 
-## 🚀 About Me
+## What I work on
 
-- 💼 Senior Software Engineer at Appian
-- 🎓 Master's in Data Science from Chennai Mathematical Institute (CMI)
-- 🤖 Former Data Scientist transitioning to AI/ML engineering
-- 🎯 4+ years of experience in data science and software development
-- 🔧 Passionate about AI/ML, automation, and scalable solutions
-- 📈 Focus on intelligent automation and enterprise AI applications
+- **Agentic systems** — state machines, multi-step LLM orchestration, MCP server integration
+- **Real-time streaming** — SSE-based event pipelines for interactive AI copilots
+- **Full-stack product engineering** — Java, TypeScript, React, Python, Kubernetes
+- **AI automation** — natural-language-driven workflow and object generation
 
-## 🛠️ Tech Stack
+Previously: built OCR→NLP→ML pipelines at Carelon (Elevance Health) that cut medical bill processing time by 70%.
 
-- **Languages**: Python, R, SQL, Java, JavaScript
-- **ML/AI**: TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
-- **Automation**: Docker, Kubernetes
-- **Databases**: PostgreSQL, MongoDB
-- **Cloud**: AWS (SageMaker, Lambda, EC2), GCP
-- **Tools**: Git, Jupyter, Colab
+## Tech
 
-## 💡 What I Do
+`Python` `TypeScript` `Java` `React` `FastAPI` `LangChain` `Kubernetes` `Docker` `AWS` `PostgreSQL` `MongoDB`
 
-- Design and implement AI/ML solutions for enterprise applications
-- Build intelligent automation systems using Appian platform
-- Develop data pipelines and machine learning workflows
-- Optimize model performance and deployment strategies
-- Bridge the gap between data science and software engineering
-- Mentor teams on AI/ML best practices and implementation
+## Education
 
-## 📊 GitHub Stats
+- **M.Sc. Data Science** — Chennai Mathematical Institute
+- **B.Sc. Mathematics** — Presidency University, Kolkata
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sen-Arnab&show_icons=true&theme=radical)
+## Connect
 
-## 🤝 Let's Connect
-
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR_PROFILE](https://www.linkedin.com/in/arnab-sen-7020b8200/))
-- 📧 [Email](mailto:arnab.sen@appian.com)
-
----
-
-*"Building tomorrow's solutions with today's technology"*
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arnab-sen-7020b8200/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:arnabsen72@gmail.com)
